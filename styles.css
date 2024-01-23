@@ -1,0 +1,77 @@
+h1{
+    color: rgb(218, 112, 214)
+    
+}
+h2{
+    color:  black;
+}
+img{
+    width: 800px;
+    height: 500px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("1342228.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 50px;
+}
+
+p{
+    max-width:  800px;
+}
+.notafrieren{
+    width: 250px;
+    height: 125px;
+    
+}
+.avaliaçãofrieren{
+    height: auto;
+    width: 700px;
+
+
+    
+    margin-top: 50px;
+    
+}
+.openingfrieren{
+    margin-top: 50px;
+}
+iframe{
+    margin: 50px;
+}
+.logofrieren{
+    height: auto;
+}
+
+.bordatitulo{
+    
+      text-shadow: 
+               -1px -1px 0px white, 
+               -1px 1px 0px white,                    
+                1px -1px 0px white,                  
+                1px 0px 0px white;
+
+}
+
+/* --------- */
+
+/* rgba(255, 255, 255, 0.8) */
+
+/* 
+border: espessura estilo cor;
+
+exemplo>
+*/
